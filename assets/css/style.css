@@ -1,5 +1,7 @@
 
-
+body{
+    background-color: #212529;
+}
 
 .fondo{
     background-image: url(/assets/img/teclado1.jpg);
@@ -7,4 +9,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 50vh;
+    opacity: 75%;
 }
+
